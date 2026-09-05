@@ -1,10 +1,10 @@
 {
   "license_id": "EL3CUASL",
-  "status": "active",
+  "status": "suspended",
   "created_at": "2026-09-04",
   "expires_at": "2026-11-24T23:59:59Z",
   "version": 1,
   "installation_id": null,
   "dono": "teste1",
-  "signature": "BrYLKFGn7KMC/wztnXWCVP7r6Kq3GAbPngcQ8MUqeLojBKeyXaXTI4mSp1IwPn0XkODspo8ft3zLV2dwYBzgRV+SQscOVhQxEguILBMhNw2CZvVa0Rh+vMzvo/0rNpH+6VoE7hjPy5IaIyKeAiInGmyQYUK9zxax4uHkqvBkw1HzQB06V1n4NOdiYHluOeHtnTh2x6K00A5Tl9zdow2SVkqHQ9SD8xDnLk0WQnjIHWPmy+suAoW2xgeo387tRQWx9oytCSQs0OYtxZqZs9DmDh3PJUm5m8JrjNf6tbmcWenjQ4AozRC1e2/gAPOg6X1SMlE4YnYD+elRb/Yoq8nW+PYobvGGxnxUkyWokv3p6MR8+Vft2xr8Bs5g7zJ1YhudQDffdRIy887gbi8FXPJsD6igPerRBo3MChKi19mFJ94l5MDaj99Ly8Q24hLCqWqWBc5SbYOitCP/vpgUg5eEQt6pFJtEh4myy/Qh6GX6QjPMbIYcOtfHd9VZ3IzfWfpR"
+  "signature": "gSIIR/GMfbV1RFYHV2+4KKPJThc4hpmoSJQh0OBczuRmDdeGaShDle6Uvg64PJwtzMc8WAFr6+mz2K6+gR9VNw+adD0rQx3v9rra/xgMmvUwyCzOUJTL/T5Fe3NHTalPRFhvi36pi81e9ZmMjCKRT+CMB0NHkQMzmNShI98ysVjsd58lFqhcmT60esFgtjxfbm7ZA7V4CcY8xrTKhn45aMDIezhRByXN+jyo5mmMGE73ErbHlI1iNPzFcQe2sJx0zeMxM1g6e9lb+QEC4C68VEOkFOY9H6LvEe1UcsMe4ORCb+JMGbNbYnwlFzU27ErFdnMtmZ2654V5A5A35RdQTo09158u6b5Kjnx43CIBrlun50Z14aVqVlzUx6tZGkfMyiU1UNVQAiRLRMHGiKlpwr4LWS0pjGjUiSrqeSlNwmqHjQO38IpKWKDi+1lqE8eMd0Q+Vmdi/lV7qMAcI+AWxlaijZxxTeQndUdNWtcd7HIW/IkeJPAwIQmppMgvczAw"
 }
