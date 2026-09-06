@@ -2,17 +2,17 @@
   "license_id": "XCE34ADJ",
   "status": "active",
   "created_at": "2026-09-06",
-  "expires_at": "2026-11-05T23:59:59Z",
+  "expires_at": "2026-11-19T23:59:59Z",
   "version": 1,
   "installation_id": null,
   "dono": "HayshaNew",
   "campanha_tier": "Gold II",
-  "campanha_total": 500.0,
+  "campanha_total": 800.0,
   "campanha_atualizacoes_dia": 20,
   "campanha_inicio_utc": "2026-09-06T00:00:00Z",
   "campanha_fim_utc": "2026-11-05T00:00:00Z",
-  "campanha_ultima_recarga": 500.0,
-  "campanha_ultimas_horas": 720,
+  "campanha_ultima_recarga": 300.0,
+  "campanha_ultimas_horas": 336,
   "campanha_ultima_recarga_utc": "2026-09-06T00:00:00Z",
-  "signature": "GJ4c1vBhyUA3KE7UIwEkHw9KSDBeG4hJ/mFwqIm9vuVJB3UFqtiWOMsJQ/V8h6uDJADccbTgerClvDaUWNT8cCRSvglKsA94FL+MtL6rqJbvOM0urenuRewd8JzlKsMmuW3LpAnc2eux0xUTPpFT4etB8NAEML809YQvZtqB44ggWTjDsPXpin7WVmOYeJeD8le4x1DjUajgaTTWwC7lnPVqd7cyBeb6Oitt/jTvDeEtV21nzXuTENhBkuKiXwEXScyezXArnitp4iC+xvu3ZQA/ns9sYYoQVdFEh00TMGJsR7YaJxeCnsNIXnZHeYJgJE2ALoEUFwyIEH5R60/K/2uzqB7IN80RY/2c9EwnJSStkAMfa61lAZR5sHqikoCVjaXj7QPNqY6k11MGxJt3SE6tfujhwCJrRdbjp0QKC0WOPk4RMarYdSuM1xoRiFi3C9uO9Wg8aUlvq3TJyedeHL/EqOX1DKXQ6wYfOzqCcD+sqno9fCq+ikVGtOxlexLo"
+  "signature": "hbmY0oxPIAsj8n4N9NrZA1fmIBE3qCKe7wvPaWMvaxlBVlY4TD0zyHIAFPOxhu9Aozn0V5NNVwhUZfIlHd2GYziQwAKuarPP9/GfisQZYiycvo1l1fcWzGmwaSNK+UKNlB0dzGrA2xPrmhed9mks2ADp/PtGunsHjSfI3U8gVDaM9pb+H0BRE7QXq3Hxg/WXi1BHXotyLunSsVL664FqSIJCjxh78bBKdkmAOKfkadUczf3g10OtAijijWeBE1TWn5EPrVnDee0tm8Kj2/w/yoqks3FjlS96gbGp5EjOdirW0QAqpYREuY6RPI1veovGe9YW0Zh5u3RLw8E6X1Fq6H7z/hfJYhS8R8NaU33QHN+m+N64rSL8KP17UGgJrl0YqpjOkjj3IC68oZcq6sO3hLvjtdTwfvPlah7DtNxtPBJPo9KA8IiUxW4/l2lRioY2W1m81Y5lth8evKBg7jvJ3UWeGxJ47nGaLuLiGqCsqsmT9TVpCEPoR8uGtguQnwQC"
 }
