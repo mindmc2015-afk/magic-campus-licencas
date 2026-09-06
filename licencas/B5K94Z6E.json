@@ -1,6 +1,6 @@
 {
   "license_id": "B5K94Z6E",
-  "status": "active",
+  "status": "suspended",
   "created_at": "2026-09-06",
   "expires_at": "2026-10-06",
   "version": 1,
@@ -14,5 +14,5 @@
   "campanha_ultima_recarga": null,
   "campanha_ultimas_horas": null,
   "campanha_ultima_recarga_utc": null,
-  "signature": "JpNip8cKmNXOBdZRjHNJhpdF0kM/nE4AAxPL682ZSB+8tmrmP4IdZxodxXlxTXkrkfc0uG3ARfcto2T9t8AZ0idR4EqAXkfx5pyLQ/ynw7uXKH+KhsrZW+nh0BKuvStBEY559Fr2RVtdZ1bUTtPF91ZEKDgDQpr89z1KRF1A0EMkCbSS96IO0NgR4XIiC+5zxi5aOnBEGfHNnKbGY2MB3ojOMyeISj/rLD8GXoO2zBRSSRdj1stjiGEbUB/puCCF3pKsbdO2bapZhGsJzarSsgo5s2IbduvHhrnIwNLhUNGmBFdgDu7dYVJIgRwIxvR9FbCYSwhXXxUeNsPQdbXnzjawFuKlc1BkgSimtsd6ht7bJTh1QAp8DqXaSh9MWrFVVnfGagPSBKZXy7MS5FZTwOsIMdbda6kJuwAGKjsfdICYvEmYvrlxHryC1BLsuXfkYPu2/8uLjA3BTY7Kis163UMG84mohmavt2YgKyE965WmB2T5hAAvDluMChKw5/zO"
+  "signature": "dvtiwQ79VNYUDvURZ8OacQjiwLEyTGAAHak1zxcBV9JAJgMVf8oXdbnDe3wZEEArieD4vsw0rn5rKXJeOzq8Wisdz0zLylswJaG7/pyej6I6xQ4PWPvmcqPZFE/SzSrJus7K725TWWXlFkaQTL5SFpvritGpXvPV3dFnL+RCEETJc85VaN2dOBrdDHiWakO3MkrpfCS5uHPEvELIJAdq+jvyNyBy9rEWxkgDetBR7zYrx73LCdhLiDlDwT+dwCzR1QLBtE5cpK2kWoNnbwbWDtDnlzHtKkWjjtb5yAYz+E23yltXsU54rfNVfhGijHs/9xYp0nbTTeLTg1maAeCMrwihbEjA2ta7MMo07s5aKhd/JhEgE25OEeiqlNA5jG9NjQvANqAB3didz414zjcyfKuGrVZ1zw8mNZz3Bi21/wN2rNXw/LZUskMsMNg5jBKvtQ6gGZptzH+2kSj+If9bL7K+w3XanKYlvTShkzPOBw3RBaicTW2lXWytEIfraZ6N"
 }
