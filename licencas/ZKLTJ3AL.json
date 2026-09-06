@@ -1,6 +1,6 @@
 {
   "license_id": "ZKLTJ3AL",
-  "status": "active",
+  "status": "revoked",
   "created_at": "2026-09-06",
   "expires_at": "2026-11-05T23:59:59Z",
   "version": 1,
@@ -14,5 +14,5 @@
   "campanha_ultima_recarga": 500.0,
   "campanha_ultimas_horas": 720,
   "campanha_ultima_recarga_utc": "2026-09-06T00:00:00Z",
-  "signature": "Zx72PZznTyb7YYUJscWsf+t0x+r4OaiKxEGXn1H7Sn4ywrGCO9c76FrUThwrT1z6IS/JZGW7uljIPTKDTXjO2fcDBOGm6rWCMEEHcfZ5zNKaUG6HE3gNqMEVn5XKlXEq6CQr2SwUXXbBRfsTKnHyHfbr6Bz2/1x7MlgtjWV0PH0LMNuHhIW743wqD2yyldZdOhLLSnBMln7D897nLrndcjMo5z7x7+0ZXGxcHuRSfGpKn/c1jG8QK3ociXuX4uMxF+S2VkyNquXnyY28CKWHIP0Vf79Fwi5g5SuBSvLAksT+kR6kt/yBcboGEvTXgcUNIyMrL6YiEhuy07Hxr03uU3EMtggMlZnlDEvNCE+RrvkoCc2bRI7PTZj5bO8LvCjaeOhJyU4RSJZPValPCOOZs4zHdYWR897tiO+6QXHEbEEVJLSiv5DN6bHviFLab9ML0dHnIe3pRDTvabu/RKbECa1egYLm9RANNdXWXwrmP0mcTvysfr0qXHGLd+ZszfJf"
+  "signature": "ALfk0vEzP17QF2NYeq37LSwltDzDeSJmwWdylvjRy8N7aW/BmsRo06pOGyCSs2cf1p69uCtXWGcMf5F4JINtCkEnLNbucoTk3ChFZu9GuktuCjICeqyVGiRZ3RXlHjLgyunyo+XdceC3/Bu3SadKvSjTijr6+X0Nb/umfnb94QRWnoHuqIftrRAPKJYvX31X3vBputw8iY4QYnFQJp7GYJuYvRP3in9ZqbPJxfwG3YHgqMadEZr8yqvD+e+KXC7e3uJ9NJHWjmjY/BuuH4lUAZ+9g+EFAKNSNDiuKyNmlNVEmzWjh7FwKUwBxy9tkRAGI4DoymDGvouV+OeTeAC5HfXUVGnTJJVwFRzT6ZMF3MjhLVoZNjyncVITEQvA93Mp7KcPyiq8/Fi2K201MfJRIg1ySuLudfVfddcjxqslKzDKnL6Vc0/dmP/CY3X6W2eKZe5Eo9iAjTZhkhN8cY+gwjAhw3zrDc4tJZwK6eNhMhnCK3aKMkJbzOdr5wXRs7yo"
 }
