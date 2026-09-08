@@ -1,0 +1,20 @@
+{
+  "license_id": "RRM5LKFG",
+  "status": "active",
+  "created_at": "2026-09-08",
+  "expires_at": "2027-03-08T00:17:01Z",
+  "version": 1,
+  "installation_id": null,
+  "dono": "FB",
+  "campanha_total": null,
+  "campanha_inicio_utc": null,
+  "campanha_fim_utc": null,
+  "campanha_ultima_recarga": null,
+  "campanha_ultima_recarga_utc": null,
+  "campanha_bilhetes_semana": null,
+  "campanha_semana_utc": null,
+  "campanha_bilhetes_mes": null,
+  "campanha_mes": null,
+  "campanha_reserva_mes": null,
+  "signature": "A/KCUASj3kuY2pvHtulQgHk8xZST0GIjWmm1H/rgpinWqPUIpjj416LRay0JJfpiCpAMpPU9lp1/g5W1rgBmObESWfWXW9Lmq/T4/IzRHnvKlW07moNGsbJ6RNIyCA8W40kRDTTiekpTLYUUYMP7HuNUTugCn/+ADUTFj5wWPFUDm2bPTzzwUIDjpgAFjk1SmD6BSZTTwWywp6YJ9vjvQG43F/2e2FifEWqoXTKBpfEg1OiZmpwHY62/Jvgy65tk9Rvu+IODUEMe7HgftMasOmrvnIR6FX0kbbiGBAhzdkj8zFMUDhIInmyCfw+JYmtieJQByGw1RKG6lTGsaaoyoNmzao0r4h5533gJ7VmMv64lLyuKpQSV+Bbrt2RvoYml4/KhcJ6GUzJeoPQH8R7P4OGZeVoYoIEl6iHnWn8FR0FgbvUYbBZZi9F/oL8jrj+DnsDXUtZ+RIx2ahxfpKRwMArRCPv793wR4TOTDUwpIG9aIFMc686dRrTB8vYLBcSQ"
+}
