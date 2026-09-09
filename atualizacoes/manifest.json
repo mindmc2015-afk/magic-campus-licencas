@@ -1,9 +1,9 @@
 {
-  "player_version": "V80",
+  "player_version": "V81",
   "player_url": "https://raw.githubusercontent.com/mindmc2015-afk/magic-campus-licencas/main/atualizacoes/AnalisadosXLauncher.exe",
-  "player_sha256": "e9101fe43f316f6429537e9854130630e348430a61b47f8842f7cf7a33fb9716",
-  "admin_version": "V80",
+  "player_sha256": "5430e0458d0434c5d6250c481d4a7194f5c2c0b64c4a76a8096702ba780cc1ec",
+  "admin_version": "V81",
   "admin_url": "https://raw.githubusercontent.com/mindmc2015-afk/magic-campus-licencas/main/atualizacoes/AnalisadosXLauncher-Admin.exe",
-  "admin_sha256": "50b5c14b22ea62a1e7dc0bb0905c1df4db40668fcea3987f90c8f5af0ed8b6b3",
-  "signature": "AXh2jJjgoSg5m15lAsfgZYUIiOEQIxkVYlK9VQ+RrEN46lkuXpShfIiduuoEokupGeM/2ArWnhZJlTijPRAjdf5GUGUv84GDWKJ/NuVEojU0nlTedNM3luu48sjSHsIpdEbjijxIUa+V4TvgUpZCRVfOa7g8OsOYyU5SLR0WPO2FuGRghQY/7K384DoJr6p8PSg+zziO2HJTGFPpyhOFxkFCbRV4wuFPtzBNFg3LGARasWHD2cuX8lkNe7b7DIYBkUPGhG9ys37LXPgyGBubWt6SejrDIuRr156q3pYNzl34M5wP3S/UiaOnWPmJDHEpoUUm+aHpYJ+xPOSQxc8FJ5OTX01yZwumeB/HE1wUSakDZNeo3qcNpoIu3U1rQGEI7v1jQl78Ah+edxqnD4hEkUxdNUFC1HwSdRKoKKVGtvMHQVaBA1nBYV9BFs2NpnS9XMwq6c74gt3FzrroHdwsdsOVXu5nr+hYuVmiOHSwwp1VScGiqUV0OkiSE3fSc4MH"
+  "admin_sha256": "766bd2378f9a901abf80d674e4cfde9794333ff5cc6fe21f2c012cf460ab0c2e",
+  "signature": "Uvh7qEPAi0r4cdS3ZmAdYaJngWvgIK8CTIrnivYiQlfP7/IuRovxbF52UH1RXGdq7duaNxtdHFtXfRE32Mq/y/WoHBAH2Ph8SN8qk5mLh9JVuHoViCrcHVmnfuzQEN54JTpheApU2K62bOa7t3NKcdTTbc1NeYh4n/QR/j790qg6aTRgePBkdHKgzNpTka0iaCWE1O1fQ0ZtSfnCkrTCidAFBMYC8z3szfrXtUEMWJ/qqW35rn85ryP2hSfXy89lE7bzUdDOuaK8FLrohjwKOKDFnIljBP4h/bdl2cj4JMZpUvo5jf3m/X1erjdJP4y8pCGj5tSgwN8XnHj4QWCnmTWEmZglHspBM2lV9rmgEeLevRmzxDL16eTa7JLxoED2G+JdSY94d90mTUR7oWHQ/Zo9sHvVBWK3k4D8dagNJ6eWAxncAaEZGB+m78oBR8OOFExI0vYwUqqPjfqVA44chovjNcUAw2/WqEZMv8G2+ZuH6CCCAepFLuA/AfsnNGd6"
 }
