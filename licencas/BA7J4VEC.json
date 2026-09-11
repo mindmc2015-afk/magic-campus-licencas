@@ -7,5 +7,15 @@
   "installation_id": null,
   "activation_hash": "f7a533d46b5e24df2e3ae73096775832d24ec62ac12624f4cb5bf734e8eaead2",
   "dono": "Dark",
-  "signature": "TGTZzE1SH/HQqDMwvZqb7V6D4LRQjKHItdub431bRGrh+FngkPOiCYydDNrgURhfK5tDrHRQsb0KbL66pa+gL2gGemxphGjSeXVBWgsKzll8Zm4OSXOgzqLqKvlW55THaqJLbi5smCkaiJb+pcyIL6xWzy6IGqu0dPYQAtrwIBqa2kNgiIm/FwuY5qW+LdoBTyI0eD/cnO0u/fOMX3I0N+dIiPeM6XL57Pu/Okk4Hmr2tcgg8QMCTqq8JfgE0qEHwMjCvHd5oygo3kZ0GrqoV9s6Iws2y1VhRQDh2mcAQHE1vELv2Ao2/nTsl1HqvRlmwJBkC/iht/8Omm09Vknas3v8K4g2WYz4EVpVR3iImjo7gMSbKa2S6PxTooy2islwy49bBlKRa3S9yBnVfUByKYuTMm+X8VmuhfAkdbmlsgFzkp1eeJOiE25nNsWOlrk6Zp/2+r68uSqPvxDUDmlqdb/ZpSy+M+49cy6BiN5nCiZeQsJlofIMntXTarxPebRK"
+  "signature": "TGTZzE1SH/HQqDMwvZqb7V6D4LRQjKHItdub431bRGrh+FngkPOiCYydDNrgURhfK5tDrHRQsb0KbL66pa+gL2gGemxphGjSeXVBWgsKzll8Zm4OSXOgzqLqKvlW55THaqJLbi5smCkaiJb+pcyIL6xWzy6IGqu0dPYQAtrwIBqa2kNgiIm/FwuY5qW+LdoBTyI0eD/cnO0u/fOMX3I0N+dIiPeM6XL57Pu/Okk4Hmr2tcgg8QMCTqq8JfgE0qEHwMjCvHd5oygo3kZ0GrqoV9s6Iws2y1VhRQDh2mcAQHE1vELv2Ao2/nTsl1HqvRlmwJBkC/iht/8Omm09Vknas3v8K4g2WYz4EVpVR3iImjo7gMSbKa2S6PxTooy2islwy49bBlKRa3S9yBnVfUByKYuTMm+X8VmuhfAkdbmlsgFzkp1eeJOiE25nNsWOlrk6Zp/2+r68uSqPvxDUDmlqdb/ZpSy+M+49cy6BiN5nCiZeQsJlofIMntXTarxPebRK",
+  "campanha_total": 100,
+  "campanha_inicio_utc": "2026-09-09T00:00:00Z",
+  "campanha_fim_utc": null,
+  "campanha_ultima_recarga": 100,
+  "campanha_ultima_recarga_utc": "2026-09-09T00:00:00Z",
+  "campanha_bilhetes_semana": null,
+  "campanha_semana_utc": null,
+  "campanha_bilhetes_mes": 1,
+  "campanha_mes": "2026-09",
+  "campanha_reserva_mes": 150
 }
