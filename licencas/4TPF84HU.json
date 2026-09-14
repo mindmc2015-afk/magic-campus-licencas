@@ -1,6 +1,6 @@
 {
   "license_id": "4TPF84HU",
-  "status": "active",
+  "status": "revoked",
   "created_at": "2026-09-08",
   "expires_at": "2026-10-08",
   "version": 2,
@@ -17,5 +17,5 @@
   "campanha_bilhetes_mes": 0,
   "campanha_mes": "2026-09",
   "campanha_reserva_mes": 450,
-  "signature": "MoPbgluw6WX5G4cgJZmxv8sUSl8U3ekCRPeXDzSV8jXNISoPF3ohnp8U2QOTQur7cAR6lqgk7PzVyxbI91hHJP5nWRv/+WNYgMpJzo0WSgFoleyOf9QDvsplfxUCWKAn6UUlszfeSDSmCj/lJUi4Tkkv6k2V3KtIlv1jgAwR0aRLNPdXqeujsTf7oc6WZvRdTckDVeWNPzCZ23y/owWEzuPiErqk3FbOYw7tTGVqNYUz0WO3Al24kBNgn3U96OtFTkA5A+a4UvT9PnVfHkxwSYdHFncVMcUueqwnlgilscxLF1pg6c2eQqnsZWys6AwmAXnVIQW/3tfsjqzieSggaOXxQ3GccA/4HB32KdWstjm7vOe+txEYDhzqqC7Qh2p4xqrc4H4m52aKWMfpoHCjkFtr0PdohypkUdqrtCTBpZqoHrEwg+znKaULZlj0Y7UuoP8G1NKDKgnxf2+c2mSpAj0lDLW+mhD6flLSDUtF1w6xZapQunhx6ieazG9qRPBu"
+  "signature": "Se+822YGIJHWbDagINNIsh8GHHZ9993wpsPp7xyrI2DI0wWmVRkwrz7VKmWEDkMZBYgOX6TiNy/lAxQyyNv+azz6sXR8MEML3FnT9Q9jo2J9jEtUsY33dIt6K4x5DRkX1Ca4VpElcNzjP5bFZGLnR38dMHfQBBe86QfDNmYWdZB3Uh+533daQhhrhK6VRKTjq4+tfEMzbezF3cb6KxGa7CDApnUw320h6Lz7J4y/i0vEK0wQNU1nWZxQvvzwLV3UZZuzTtBiAP0cV5Q5ul78rv5eZCAmkNRLPJybWGbS93m0tR2LmWtU40UOiD5oRRUMuO3YQfQA3c4+DWEsD6cJdx4ep39PT+BrNBf10wtqtyF6QsjaeeOHuVttnxPF6/vJKImHioE2XLe9kY+HrRHJo8bRVqOFKJhIA/iHpvhqIp6/dWyA/yLZJZhBZdRiu4TeTHd6rKsfeRjA0BdL/8XHsyfgDJB6b0RF7TXzfQE9Kti8lcmSGWAO1+toh324IJAt"
 }
