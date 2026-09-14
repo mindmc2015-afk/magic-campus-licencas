@@ -5,7 +5,7 @@
   "expires_at": "2026-10-08",
   "version": 2,
   "installation_id": null,
-  "activation_hash": "d26356cbc34f91cfc7fcaffe7785ab7c40ba473bd1d6f975ddc27ab94d4dfae2",
+  "activation_hash": "58429170c749bb7cfb519d1bb3eceb7559c9ab5e84d4f5f7245e0d04cd4e1e95",
   "dono": "MIND TESTE",
   "campanha_total": 0,
   "campanha_inicio_utc": null,
@@ -17,5 +17,5 @@
   "campanha_bilhetes_mes": 0,
   "campanha_mes": "2026-09",
   "campanha_reserva_mes": 450,
-  "signature": "O4Y2g+yn+D7gYmwklseZwLFJhExqQfk+1ASbKA9Sh4jaYNckKlBD/eYYHXxmTfhdS3oMlZeNUbgPRjRDmdzM1SERtyM2PUgs0lJuawgm/d0YVX0oGddfDQ1P7eazjswZo8Ckjf1EGvC3bm+GMZUw6lTAFX2uZXjGcOqXswoTz5kSrpk9B0BOIb1J7AUWbi3ezqIww/cfGSJNOGA3gja3Ep62nmpTTYsdXHvWw4I7Cxv9orAxPkC+P2Cwxknbzvsg+ggmWTGC5DvHoxRZMthl1Cw7wynD/Ecg+q1FE4xs4brFHWXfLJTUhnmMn5pQnEDTPWlsR2XSIZjdmG9VmkEqdCHwo1B6+nqo3aH9+WX4ea3rtjrmCV4lEtmyu8/8YoNfew2AHeeRHGBeyMyT+ri9fS4k7o5tuAkTz1neVnEStdBaRNqUWFTyZZHzTa59aBNOysS/11vwXAnBa2gstNDnGoJRstbJuO0WDNpU7r10PrMJiJ3WS4kZ12KpFSp02F9X"
+  "signature": "MoPbgluw6WX5G4cgJZmxv8sUSl8U3ekCRPeXDzSV8jXNISoPF3ohnp8U2QOTQur7cAR6lqgk7PzVyxbI91hHJP5nWRv/+WNYgMpJzo0WSgFoleyOf9QDvsplfxUCWKAn6UUlszfeSDSmCj/lJUi4Tkkv6k2V3KtIlv1jgAwR0aRLNPdXqeujsTf7oc6WZvRdTckDVeWNPzCZ23y/owWEzuPiErqk3FbOYw7tTGVqNYUz0WO3Al24kBNgn3U96OtFTkA5A+a4UvT9PnVfHkxwSYdHFncVMcUueqwnlgilscxLF1pg6c2eQqnsZWys6AwmAXnVIQW/3tfsjqzieSggaOXxQ3GccA/4HB32KdWstjm7vOe+txEYDhzqqC7Qh2p4xqrc4H4m52aKWMfpoHCjkFtr0PdohypkUdqrtCTBpZqoHrEwg+znKaULZlj0Y7UuoP8G1NKDKgnxf2+c2mSpAj0lDLW+mhD6flLSDUtF1w6xZapQunhx6ieazG9qRPBu"
 }
